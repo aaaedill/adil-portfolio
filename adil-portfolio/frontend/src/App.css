@@ -1,0 +1,16 @@
+
+/* =========================================
+   ADIL ABDULLAH - DEVELOPER PORTFOLIO
+   Main Application Styles
+========================================= */
+
+/* =========================================
+   APPLICATION WRAPPER
+========================================= */
+
+.portfolio {
+  width: 100%;
+  min-height: 100vh;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
